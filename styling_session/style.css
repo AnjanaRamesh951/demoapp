@@ -1,0 +1,44 @@
+body{
+background-color: black;
+}
+.main-header{
+
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+.state{
+    border-style:  solid;
+    border-color: black;
+    border-width: 1px;
+    color: brown;
+    background-color: tomato;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    float: left;
+}
+.tvm{
+    border: 1px solid white;
+    background-color: turquoise;
+}
+.clct{
+    border: 1px solid white;
+    background-color: violet;
+}
+.knr{
+    border: 1px solid white;
+    background-color:coral;
+}
+.wayanad{
+    border: 1px solid white;
+    background-color:palegreen;
+}
+.idki{
+    border: 1px solid white;
+    background-color:olive;
+}
+.tsr{
+    border: 1px solid white;
+    background-color:palegreen;
+}

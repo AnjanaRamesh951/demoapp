@@ -1,0 +1,15 @@
+.parent{
+    width: 800;
+    height: 600;
+    background-color: cornflowerblue;
+    border: 1px solid violet;
+}
+.child{
+    width: 100px;
+    height: 100px;
+}
+.child1{
+    background-color: cadetblue;
+
+}
+

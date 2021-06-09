@@ -1,0 +1,27 @@
+.row{
+    width: 1000px;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    /* justify-content: f; */
+    /* align-items: flex-start; */
+}
+.col{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    
+}
+.col-1{
+    background-color: chartreuse;
+   
+}
+.col-2{
+    background-color: hotpink;
+}
+.col-3{
+    background-color: maroon;
+    
+}

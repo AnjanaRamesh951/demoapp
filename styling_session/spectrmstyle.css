@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+body{
+    background-color: black;
+}
+.main_header{
+    text-align: center;
+    color: white;
+    font-family: 'Reggae One', cursive;
+}
+div{
+    color: black;
+    border: solid;
+    width: 70px;
+    height: 90px;
+    float: left;
+}
+.one{
+   margin-left: 340;
+   
+   
+}
+.two{
+  
+    
+}
+.three{
+    background-color: rgb(87, 82, 82);
+    rgb(33, 121, 33);
+}
+.four{
+    background-color: rgb(51, 87, 51);
+    rgb(11, 243, 11);
+}
+.five{
+    background-color: rgb(4, 88, 4);
+}
+.six{
+    background-color: rgb(8, 247, 8);
+}
+.seven{
+    background-color: whitesmoke;
+}
+.eight{
+    
+}
+.on{
+    margin-top: 30;
+    
+}
+.tw{
+    margin-top: 30;
+    background-color: orange;
+    
+}
+.th{
+    margin-top: 30;
+    background-color: rgb(228, 46, 46);
+    
+}
+.fo{
+    margin-top: 30;
+    background-color: salmon;
+    
+}
+.fi{
+    margin-top: 30;
+    background-color: slateblue;
+    
+}
+.si{
+    margin-top: 30;
+    background-color: rgb(39, 4, 39);
+    
+}
+.se{
+    margin-top: 30;
+    background-color: violet;
+    
+}
+.ei{
+    margin-top: 30;
+    background-color: grey;
+    
+}
+.ni{
+    margin-top: 30;
+    
+}
+.onn{
+    margin-top: 30;
+    background-color: rgb(16, 235, 224);
+    
+}
+.tww{
+    margin-top: 30;
+    background-color: rgb(125, 221, 46);
+    
+}
+.thh{
+    margin-top: 30;
+    background-color: rgb(219, 124, 15);
+    
+}
+.foo{
+    margin-top: 30;
+    background-color: rgb(150, 10, 52);
+    
+}
+.fii{
+    margin-top: 30;
+    background-color: rgb(43, 9, 9);
+    
+}
+.sii{
+    margin-top: 30;
+    background-color: rgb(12, 209, 183);
+    
+}
+.sev{
+    margin-top: 30;
+    background-color: rgba(26, 230, 152, 0.61);
+    
+}
+.eii{
+    margin-top: 30;
+    background-color: rgb(169, 88, 223);
+    
+}
+.nii{
+    margin-top: 30;
+    background-color:rgb(73, 44, 73) ;
+}
+
+/* .five{
+    background-color: whitesmoke;
+} */
+
