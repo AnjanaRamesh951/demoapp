@@ -2,10 +2,11 @@ body{
 background-color: black;
 }
 .main-header{
-
+    
     text-align: center;
     text-decoration: underline;
     color: white;
+    
 }
 .state{
     border-style:  solid;

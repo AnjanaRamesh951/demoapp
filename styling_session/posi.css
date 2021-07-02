@@ -1,0 +1,47 @@
+.row{
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    background-color: blueviolet;
+    position: relative;
+   margin-top: 10px;
+}
+.cols-1,.cols-2,.cols-3
+{
+    height: 100px;
+    width: 100px;
+    border: dotted 1px black;
+}
+.cols-1{
+    background-color: coral;
+    /* margin-top: 100px; */
+    /* position: absolute;
+    top: -15%; 
+    left: 80%; */
+}
+.cols-2{
+    background-color: darkcyan;
+    position: absolute;
+    top: 0%;
+    right: 59%;
+    left: 110px; ;
+}
+.cols-3{
+    background-color: crimson;
+    position: absolute;
+    top: 0%;
+    right: 39%;
+    left: 220px;
+}
+.fixed{
+    position: fixed;
+    background-color: chartreuse;
+    width: 100px;
+    height: 100px;
+}
+.stiky{
+    background-color: green;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0%;
+}

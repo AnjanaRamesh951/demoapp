@@ -9,11 +9,12 @@ header{
 }
 a:hover{
     background-color: rgba(95, 13, 13, 0.3);
+    color: red;
 }
 header a{
     text-decoration: none;
     padding: 20px;
-    background-color: ;
+    color: white;
 }
 h1{
     position: absolute;
