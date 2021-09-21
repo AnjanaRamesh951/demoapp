@@ -1,5 +1,5 @@
 //to display a message in console
-//console.log("hello world")
+console.log("hello world")
 
 
 
@@ -21,14 +21,14 @@
 // console.log(`in ${state} ${active_cases} new cases and ${cured}`)
 
 
-var company_name="luminar_technolab"
-var startd=2000;
-var is_active=true;
-var rating=4.6;
-console.log(typeof(company_name));
-console.log(typeof(startd));
-console.log(typeof(is_active));
-console.log(typeof(rating));
+// var company_name="luminar_technolab"
+// var startd=2000;
+// var is_active=true;
+// var rating=4.6;
+// console.log(typeof(company_name));
+// console.log(typeof(startd));
+// console.log(typeof(is_active));
+// console.log(typeof(rating));
 
 
 

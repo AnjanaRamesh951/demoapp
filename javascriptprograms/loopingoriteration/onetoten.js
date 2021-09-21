@@ -28,13 +28,14 @@
 
 //sum of numbers between 1 to 10
 
-var i=1;    //i=1
-var sum=0    //sum=0
-while(i<=10)   //1<=10
-{
-    sum=sum+i;   //sum=1
-    i++;      //
-}
-console.log(sum);
+// var i=1;    //i=1
+// var sum=0    //sum=0
+// while(i<=10)   //1<=10
+// {
+//     sum=sum+i;   //sum=1
+//     i++;      //
+// }
+// console.log(sum);
 
 
+Function rever

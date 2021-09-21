@@ -23,6 +23,10 @@
 // var res=num>0?"positive":num<0?"negative":"zero";
 // console.log(res);
 
+var num1=10,num2=23;
+var highest=num1>num2?num1:num2
+console.log(highest);
+
 
 
 
